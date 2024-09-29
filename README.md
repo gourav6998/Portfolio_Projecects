@@ -8,14 +8,14 @@ I'm a fresher with a strong foundation in Python, SQL, data analysis, visualizat
 
 ## Projects
 
-### 1. [Amazon Product Sales Dashboard]("https://app.powerbi.com/view?r=eyJrIjoiZTdhYjQ2YjQtYjY3OC00NWI3LThlZGYtOTBmZmM4NzQ2MDkyIiwidCI6ImNlMDI4YTAyLWY5NGYtNDM2ZS1hYTI1LTY3ZGNjNjQ3ZDhiMiJ9")
+### 1. [Amazon Product Sales Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTdhYjQ2YjQtYjY3OC00NWI3LThlZGYtOTBmZmM4NzQ2MDkyIiwidCI6ImNlMDI4YTAyLWY5NGYtNDM2ZS1hYTI1LTY3ZGNjNjQ3ZDhiMiJ9)
 **Objective**: Created a comprehensive sales dashboard for Amazon products to identify key sales trends and outliers.  
 **Skills Used**: SQL, Power BI, Data Visualization.  
 **Challenges**: Handling missing data and optimizing SQL queries for large datasets.  
 **Impact**: Identified top-selling products and regions, leading to actionable insights for improving sales strategies.  
 **Dataset**: [Amazon Sales Data]("https://github.com/gourav6998/Portfolio_Projects/blob/main/drive-download-20240817T121050Z-001.zip").
 
-### 2. [IPL Ball Analysis]("https://github.com/gourav6998/Portfolio_Projects/blob/main/ipl%20data%20sol%20query.sql")
+### 2. [IPL Ball Analysis](https://github.com/gourav6998/Portfolio_Projects/blob/main/ipl%20data%20sol%20query.sql)
 **Objective**: Analyzed IPL ball-by-ball data to understand team strategies and individual performances.  
 **Skills Used**: SQL, Python, Pandas, Matplotlib.  
 **Challenges**: Handling large datasets and cleaning inconsistent data.  
