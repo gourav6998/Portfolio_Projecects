@@ -13,7 +13,7 @@ I'm a fresher with a strong foundation in Python, SQL, data analysis, visualizat
 **Skills Used**: SQL, Power BI, Data Visualization.  
 **Challenges**: Handling missing data and optimizing SQL queries for large datasets.  
 **Impact**: Identified top-selling products and regions, leading to actionable insights for improving sales strategies.  
-**Dataset**: [Amazon Sales Data]("https://github.com/gourav6998/Portfolio_Projects/blob/main/drive-download-20240817T121050Z-001.zip").
+**Dataset**: [Amazon Sales Data](https://github.com/gourav6998/Portfolio_Projects/blob/main/drive-download-20240817T121050Z-001.zip).
 
 ### 2. [IPL Ball Analysis](https://github.com/gourav6998/Portfolio_Projects/blob/main/ipl%20data%20sol%20query.sql)
 **Objective**: Analyzed IPL ball-by-ball data to understand team strategies and individual performances.  
